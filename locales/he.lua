@@ -1,3 +1,3 @@
-Locales['he'] = {
+return {
 	['used_beer'] = 'השתמשתם בבירה אחת',
 }
